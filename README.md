@@ -1,14 +1,13 @@
 <h1 align="center">Hola 👋, soy Miguel Ángel</h1>
-<h3 align="center">Desarrollador en formación orientado a Fullstack</h3>
+<h3 align="center">Desarrollador Fullstack</h3>
 
 ---
 
 ### 🚀 Sobre mí
 - Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)  
 - Interesado en desarrollo web y aplicaciones  
-- Buscando prácticas en empresa tecnológica  
-- Motivado por aprender backend y frontend en proyectos reales  
-
+- Buscando prácticas en empresa
+  
 ---
 
 ### 🛠️ Tecnologías
@@ -39,11 +38,6 @@
 - **nueva-fp** – Proyecto realizado durante prácticas anteriores  
 - **landing-page** – Proyecto frontend  
 - **odin-recipes** – Proyecto de maquetación web  
-
----
-
-### 🎯 Objetivo
-Incorporarme como desarrollador en prácticas o junior en un entorno donde pueda aprender desarrollo fullstack y buenas prácticas.
 
 ---
 
