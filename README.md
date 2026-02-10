@@ -1,36 +1,56 @@
-# Miguel Ángel
+<h1 align="center">Hola 👋, soy Miguel Ángel</h1>
+<h3 align="center">Desarrollador en formación orientado a Fullstack</h3>
 
-Desarrollador en formación (DAM) orientado a **desarrollo fullstack**.  
-Me interesa participar en proyectos donde pueda trabajar tanto la parte frontend como backend, con especial interés en aplicaciones web.
+---
 
-Actualmente me encuentro:
-- Finalizando el ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM)
-- Desarrollando proyectos personales para consolidar conocimientos en desarrollo web
-- Buscando prácticas en empresa del sector tecnológico
+### 🚀 Sobre mí
+- Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)  
+- Interesado en desarrollo web y aplicaciones  
+- Buscando prácticas en empresa tecnológica  
+- Motivado por aprender backend y frontend en proyectos reales  
 
-## Tecnologías
+---
+
+### 🛠️ Tecnologías
+
 **Backend**
-- Java  
-- Spring Boot (nivel básico/intermedio)  
-- MongoDB  
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 **Frontend**
-- HTML  
-- CSS  
-- JavaScript  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 **Herramientas**
-- Git  
-- GitHub  
-- Linux  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-## Proyectos
+---
+
+### 📂 Proyectos destacados
 - **nueva-fp** – Proyecto realizado durante prácticas anteriores  
-- **odin-recipes** – Proyecto de maquetación web (HTML/CSS)  
-- **landing-page** – Proyecto frontend (The Odin Project)
+- **landing-page** – Proyecto frontend  
+- **odin-recipes** – Proyecto de maquetación web  
 
-## Objetivo profesional
-Incorporarme como desarrollador junior o en prácticas en un entorno donde pueda seguir aprendiendo desarrollo fullstack y buenas prácticas de programación.
+---
 
-## Contacto
-- LinkedIn: (tu enlace aquí)
+### 🎯 Objetivo
+Incorporarme como desarrollador en prácticas o junior en un entorno donde pueda aprender desarrollo fullstack y buenas prácticas.
+
+---
+
+### 📫 Contacto
+<p>
+  <a href="https://www.linkedin.com/in/mabusta06/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+</p>
+
